@@ -1,6 +1,6 @@
 {
   "name": "react-native-sqlite-2",
-  "version": "3.6.2",
+  "version": "0.0.7-custom",
   "description": "SQLite3 Native Plugin for React Native for iOS, Android, Windows and macOS",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -79,7 +79,7 @@
     "typescript": "^4.5.2"
   },
   "peerDependencies": {
-    "react-native": ">= 0.60.0"
+    "react-native": ">=0.64.0"
   },
   "jest": {
     "preset": "react-native",
